@@ -1,0 +1,29 @@
+# How to Speak Tensor
+
+## Abstract
+
+Tensor is an algebraic operation that combined a set of vector spaces into a big vector space.
+It can be used to construct codes out of trivial codes.
+In this talk, we will go over four creative applications:
+distributed storage, distributed matrix multiplication, local testability, and quantum error correction.
+
+
+## Remarks
+
+The `.epa` file belongs to [Endless Paper](https://endlesspaper.app).
+Search [infinite zoom](https://www.youtube.com/results?search_query=infinite+zoom)
+on Youtube for demo.
+
+See also
+* [SparseProblems](https://github.com/Symbol1/SparseProblems)
+* [GenoWeave](https://github.com/Symbol1/GenoWeave)
+
+My presentation is inspired by
+* [Universe Size Comparison | Cosmic Eye](https://www.youtube.com/watch?v=8Are9dDbW24) by Scientificus
+* [The Scale of the Universe](https://www.youtube.com/watch?v=uaGEjrADGPA) by carykh
+
+More recent works
+* [Metric Paper](https://www.youtube.com/watch?v=pUF5esTscZI) by CGP Grey
+* [You Are The Center of The Universe (Literally)](https://www.youtube.com/watch?v=Z_1Q0XB4X0Y) by Kurzgesagt
+* Search: [video game maps size comparison](https://www.youtube.com/results?search_query=video+game+maps+size+comparison)
+* Channel: [Alex Evett](https://www.youtube.com/@AlexEvett55/videos)
