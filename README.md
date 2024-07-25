@@ -1,5 +1,9 @@
 # How to Speak Tensor
 
+This corresponds to a talk I gave in
+[International AMS-UMI Joint Meeting 2024](https://umi.dm.unibo.it/jm-umi-ams/special-sessions/special-sessions-on-25-26-july-2024/)
+session [B28, Zullo, Algebraic Coding Theory](https://umi.dm.unibo.it/jm-umi-ams/index.php?gf-download=2024%2F06%2FFile-B-B28.pdf&form-id=4&field-id=9&hash=0cb37c575aeb1c7ff4d3bdfa36f6524732bfd11d45499562ab0a9fed8af839e4).
+
 ## Abstract
 
 Tensor is an algebraic operation that combined a set of vector spaces into a big vector space.
