@@ -31,3 +31,68 @@ More recent works
 * [You Are The Center of The Universe (Literally)](https://www.youtube.com/watch?v=Z_1Q0XB4X0Y) by Kurzgesagt
 * Search: [video game maps size comparison](https://www.youtube.com/results?search_query=video+game+maps+size+comparison)
 * Channel: [Alex Evett](https://www.youtube.com/@AlexEvett55/videos)
+
+
+## Screenshots
+
+![Screenshot of Endless Paper drawing](/png/st0.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st1.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st2.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st3.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st4.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st4a.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st5.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st6.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st7.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st7a.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st8.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st9.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st10.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st11.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st12.png)
+
+---
+
+![Screenshot of Endless Paper drawing](/png/st13.png)
